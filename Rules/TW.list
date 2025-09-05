@@ -9,3 +9,6 @@ DOMAIN-KEYWORD,hamivideo
 IP-CIDR,211.23.95.147/32,no-resolve
 IP-CIDR,111.184.236.159/32,no-resolve
 IP-CIDR,59.125.210.231/32,no-resolve
+IP-CIDR,60.250.121.217/32,no-resolve
+IP-CIDR,61.63.19.241/32,no-resolve
+IP-CIDR,122.117.71.103/32,no-resolve
