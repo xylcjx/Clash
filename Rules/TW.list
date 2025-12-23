@@ -12,3 +12,6 @@ IP-CIDR,59.125.210.231/32,no-resolve
 IP-CIDR,60.250.121.217/32,no-resolve
 IP-CIDR,61.63.19.241/32,no-resolve
 IP-CIDR,122.117.71.103/32,no-resolve
+IP-CIDR,211.23.95.147/24,no-resolve
+IP-CIDR,211.23.95.147/16,no-resolve
+DOMAIN,26533300.fortiddns.com
